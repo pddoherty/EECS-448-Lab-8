@@ -1,0 +1,10 @@
+#paragraph {
+  width: 50%;
+  margin-left: 0%;
+  background-color: grey;
+  border: solid;
+  border-width: medium;
+  border-color: inherit;
+  font-weight: bold;
+  font-size: 18px;
+}
